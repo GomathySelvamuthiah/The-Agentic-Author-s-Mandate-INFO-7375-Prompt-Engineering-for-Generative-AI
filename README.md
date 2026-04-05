@@ -155,12 +155,8 @@ Human Decision Nodes and AI rejections are documented in `authors_note.md` Page 
 
 ## Video
 
-*[Insert YouTube/Vimeo link here]*
 
-Structure: Explain (2–3 min) → Show (5–6 min) → Try (2–3 min)
-
-The Human Decision Node moment occurs at 6:30 — Cell 8, on camera:
-*"The AI proposed a VAD threshold of 0.75 without knowing my acoustic environment. I accepted it after observing a confidence delta of 0.646 in the notebook output — but in a production ICU deployment I would benchmark this against real noise profiles before accepting any fixed threshold."*
+*https://youtu.be/OEjIwLGjQ74*
 
 ---
 
